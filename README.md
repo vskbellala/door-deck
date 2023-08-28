@@ -17,6 +17,8 @@ python pip install -r pkg.txt
 - FORMAT: `FirstName LastName, FirstName, Room`
 3. Execute `deck.py`
 
-```python deck.py```
+```
+python deck.py
+```
 
 Blank door decks are found in `tags/` and named decks are found in `photos/`. `deck_all.pdf` collects all the named and blank decks in one easy file for printing. Print multiple decks on 1 page to save on paper and ink.
